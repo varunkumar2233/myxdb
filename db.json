@@ -7,7 +7,7 @@
   "userlogin": [
     { "username": "unsername" },
     { "password": "password" },
-    { "tocket": "tocken" }
+    { "tocken": "tocken" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
